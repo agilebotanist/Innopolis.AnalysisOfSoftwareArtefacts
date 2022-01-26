@@ -9,4 +9,4 @@ This is the repository to share and improve the teaching material for the Analys
 - Extra materials:
 
 # Some links
-- Tools [link is here (https://github.com/agilebotanist/Innopolis.AnalysisOfSoftwareArtefacts/blob/main/tools.md)]
+- Tools [link is here](https://github.com/agilebotanist/Innopolis.AnalysisOfSoftwareArtefacts/blob/main/tools.md)
